@@ -3,7 +3,7 @@ import time
 from pykeyboard import PyKeyboard
 from playsound import playsound
 
-SENSITIVITY = 0.973
+SENSITIVITY = 0.973 # Between 0 and 1
 BAUDRATE = 115200
 
 print("Connecting...")
