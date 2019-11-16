@@ -22,7 +22,11 @@ LightBit is a little Python script that let's you read books, magazines(such as 
 - Run the code using `python light.py`
 
 <p align="center">
-<img width=75 height=75 src="https://github.com/musabkilic.png"><br/>
-Musab Kılıç<br/>
-@musabkilic & @musabkilic0
+	<a href="https://github.com/musabkilic">
+	   <img width=75 height=75 src="https://github.com/musabkilic.png">
+	</a><br/>
+	Musab Kılıç<br/>
+	@musabkilic & @musabkilic0<br/>
+	<a href="https://github.com/musabkilic/lightbit/blob/master/LICENSE">Licensed under the GNU General Public License v3.0</a>
+</p>
 </p>
