@@ -1,5 +1,5 @@
 <h1 align="center">
-	LightBit
+	<a href="https://github.com/musabkilic/lightbit/">LightBit</a>
 </h1>
 
 <p align="center">
